@@ -1,0 +1,7 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" 
+          controllerName="treetable.controller.table1"
+          xmlns="sap.m">
+          <Page id="idpdfP" title="Display JSON data in Table and download this data in PDF file-(sap.ui.table.TreeTabel in View)">
+ 
+          </Page>
+</mvc:View>          
